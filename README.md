@@ -1,0 +1,6 @@
++ ![](./images/fx_inherit_wa.png) [战士](./warrior/)
++ ![](./images/fx_inherit_pa.png) [骑士](./paladin/)
++ ![](./images/fx_inherit_ar.png) [射手](./archer/)
++ ![](./images/fx_inherit_hu.png) [猎人](./hunter/)
++ ![](./images/fx_inherit_wi.png) [巫师](./wizard/)
++ ![](./images/fx_inherit_pr.png) [神官](./priest/)
