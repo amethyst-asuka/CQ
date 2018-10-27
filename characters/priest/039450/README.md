@@ -18,4 +18,4 @@
 + ![TEXT_COS_EVENT_PR_1_HALLOWEEN_2 (鬼计猫娘 喵) ](COS_EVENT_PR_1_HALLOWEEN_2.png) 
 + ![TEXT_COS_PR_1_1 (夏日大作战喵) ](COS_PR_1_1.png) 
 
-<embed src="/audio/bgm_lobby_thema.wav" autostart="true" loop="true" hidden="true"></embed>
+<audio src="/audio/bgm_lobby_thema.wav" autostart="true" loop="true" hidden="true" />
