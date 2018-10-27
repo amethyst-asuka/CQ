@@ -1,2 +1,2 @@
-document.getElementById("header_wrap").style.display = "none";
-document.getElementById("footer_wrap").style.display = "none";
+document.getElementsByTagName("header")[0].style.display = "none";
+document.getElementById("sidebar").style.display = "none";
