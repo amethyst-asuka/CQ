@@ -1,3 +1,4 @@
+ <link rel="icon" type="image/vnd.microsoft.icon" href="//www.bilibili.com/favicon.ico">
 <link rel="stylesheet" type="text/css" media="screen" href="/styles/bubble.css" />
 
 ![](./atlas0-039450.png)
@@ -21,3 +22,5 @@
 <audio hidden autoplay loop>
   <source src="/audio/bgm_lobby_thema.wav" type="audio/wav">  
 </audio>
+
+<script type="text/javascript" src="/styles/hide.js"></script>
