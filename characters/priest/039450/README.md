@@ -1,4 +1,3 @@
- <link rel="icon" type="image/vnd.microsoft.icon" href="//www.bilibili.com/favicon.ico">
 <link rel="stylesheet" type="text/css" media="screen" href="/styles/bubble.css" />
 
 ![](./atlas0-039450.png)
