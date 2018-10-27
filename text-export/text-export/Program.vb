@@ -1,6 +1,7 @@
 ﻿Imports Microsoft.VisualBasic.Language.UnixBash
 Imports Microsoft.VisualBasic.MIME.application.json
 Imports Microsoft.VisualBasic.MIME.application.json.Parser
+Imports Microsoft.VisualBasic.Serialization.JSON
 
 Module Program
 
@@ -14,10 +15,16 @@ Module Program
                         End Function) _
                 .ToDictionary(Function(item) item.Name,
                               Function(item)
-                                  Return item.Value _
+                                  Dim str = item.Value _
                                              .As(Of JsonValue) _
                                              .Value _
-                                             .ToString
+                                            ?.ToString
+
+                                  If str.StringEmpty Then
+                                      Return ""
+                                  Else
+                                      Return Strings.Trim(str).LoadJSON(Of String)
+                                  End If
                               End Function)
 
             Call table.Tsv($"../../text/{file.BaseName}.xls")
