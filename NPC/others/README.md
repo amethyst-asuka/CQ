@@ -6,6 +6,13 @@
 ![](atlas0-128280.png)
 > 玛娜卡尔三姐妹
 
+
+<audio hidden autoplay loop>
+  <source src="/audio/mirrornight.wav" type="audio/wav">  
+</audio>
+
+
+
 ## 玛娜卡尔与戒指传说
 
 ### 宙斯的传说
