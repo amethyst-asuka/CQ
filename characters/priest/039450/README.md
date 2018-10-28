@@ -19,6 +19,6 @@
 + ![TEXT_COS_PR_1_1 (夏日大作战喵) ](COS_PR_1_1.png) 
 
 <audio hidden autoplay loop>
-  <source src="/audio/bgm_lobby_thema.wav" type="audio/wav">  
+  <source src="/audio/BGM_HERO_HOUSE_LOOP.wav" type="audio/wav">  
 </audio>
 
