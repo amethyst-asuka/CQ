@@ -1,8 +1,8 @@
 <link rel="stylesheet" type="text/css" media="screen" href="/styles/bubble.css" />
 
-![](./atlas0-039450.png)
+![](./atlas0-107550.png)
 
-> [下载psd原画](./atlas0-039450.psd)
+> [下载psd原画](./atlas0-107550.psd)
 
 <div class="chat">
 <img src="4.png" width="150"/><div class="bubble me">因为喜欢猫咪，身上总是戴着猫耳饰品的爱猫人士，认为只要当上兽医就能尽情抚摸猫咪，所以选择了学医。</div><blockquote>喵</blockquote>
@@ -12,11 +12,6 @@
 
 
 
-##### 时装
-
-+ ![TEXT_COS_EVENT_PR_1_HALLOWEEN_1 (万圣节魔女喵) ](COS_EVENT_PR_1_HALLOWEEN_1.png) 
-+ ![TEXT_COS_EVENT_PR_1_HALLOWEEN_2 (鬼计猫娘 喵) ](COS_EVENT_PR_1_HALLOWEEN_2.png) 
-+ ![TEXT_COS_PR_1_1 (夏日大作战喵) ](COS_PR_1_1.png) 
 
 <audio hidden autoplay loop>
   <source src="/audio/bgm_lobby_thema.wav" type="audio/wav">  
