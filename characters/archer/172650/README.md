@@ -1,8 +1,8 @@
 <link rel="stylesheet" type="text/css" media="screen" href="/styles/bubble.css" />
 
-![](./atlas0-107550.png)
+![](./atlas0-172650.png)
 
-> [下载psd原画](./atlas0-107550.psd)
+> [下载psd原画](./atlas0-172650.psd)
 
 <div class="chat">
 <img src="4.png" width="150"/><div class="bubble me">路德产业开发的女性机器人。据说基础开发数据是某个研究员从海底城市规划署窃取过来的，但是无据可查。对这批试验品都下达了相同的任务，但只有其中一台成功完成了该任务。</div><blockquote>阿尔-四九号机</blockquote>
